@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LAB_AJAX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LAB_AJAX"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea9d617456de978f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0781c9c8b370c6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "135fcc69c9f61175",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e301b11d4baaacc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "984b7e8096402da3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "0c792be85d428983",
+    "type": "split",
+    "children": [
+      {
+        "id": "94f2f51da4a8e548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9120d267794343f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "949f48b54865ed28",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "98408189d5811451",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f17fda98f3a5dffc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "image/LAB_AJAX-1755469025790.jpeg",
+    "image/LAB_AJAX-1755468200715.jpeg",
+    "image/LAB_AJAX-1755468185748.jpeg",
+    "image/LAB_AJAX-1755468172904.jpeg",
+    "Untitled.md",
+    "LAB_AJAX.md",
+    "image/LAB_AJAX-1755424077176.jpeg",
+    "image/LAB_AJAX-1755424058768.jpeg",
+    "image/LAB_AJAX-1755424048573.jpeg",
+    "image/LAB_AJAX-1755423311535.jpeg",
+    "image/LAB_AJAX-1755423053682.jpeg",
+    "image/LAB_AJAX-1755423017481.jpeg",
+    "image/LAB_AJAX-1755422907950.jpeg",
+    "Configurar IP en C1111.md",
+    "SSH en CISCO.md",
+    "Botón Reset 750Gr3.md",
+    "DHCP SERVER MIKROTIK.md",
+    "Montar DNS Server en Windows.md",
+    "Cisco routers 890 series.md",
+    "Configuración inicial Mikrotik 750.md",
+    "Modelos mikrotik.md",
+    "Resetear isr 1111.md",
+    "Comparación RTX.md",
+    "RESETEAR MIKROTIK.md",
+    "Programas necesarios.md",
+    "image",
+    "Welcome.md"
+  ]
+}
